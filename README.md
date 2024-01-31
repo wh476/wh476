@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Frank 👋
+A master's student at Cornell Tech majoring in Information Systems with a focus on Health Tech. My interest is broadly in the intersection of ML, NLP, and healthcare systems.
 <!--
 **wh476/wh476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
